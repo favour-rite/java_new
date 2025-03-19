@@ -1,0 +1,8 @@
+Start
+Declare an array of numbers
+
+Use for loops to get the length of element in an array.
+Use the for loop to assign the length minus one to the data type and variable the variable should be less than equal to zero, the step should be decreased
+
+Display the reverse of the element
+Stop

@@ -1,0 +1,12 @@
+STAGE ONE
+write a program that prompt user to enter a three-digit
+determine where it is parlindrome
+if it reads from right to left and from left to right
+The negative integer is treadted the same with the positive integer
+display result
+STAGE TWO
+prompt user to enter three digit
+collect and store
+check if the number is a parlindrome
+check if the number is not a parlindrome
+display result

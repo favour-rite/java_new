@@ -1,0 +1,36 @@
+Develop a Java program that prompts the user to enter an integer and determine whether it is a prime number or not.
+
+A prime number is one that is only divisible by 1 and itself, with no other divisors. The program will check whether the entered number meets this condition.
+
+
+Write a Java program that displays odd numbers from x to y in descending order.
+
+Create a Java program that simulates a supermarket cash register to return change for a purchase. Request the total amount of money you have in the cash register (x) and the purchase value (y) as an integer.
+You should use bills of 100, 50, 20, 10, 5, 2, or 1 to return the change, starting with the highest value bills.
+
+Create a Java program that asks the user for an integer (x) and displays the product of its prime factors. Prime factors are prime numbers that exactly divide a number without leaving a remainder.
+
+Create a Java program that requests a number (x) and displays the result of multiplying that number by 10. The program should repeat until the user enters 0.USING WHILE LOOP
+
+Create a Java program that requests a number (x) and displays the result of multiplying that number by 10. The program should repeat using the do-while statement until a negative number is entered. When a negative number is entered, the program will stop.USING DO WHILE LOOP
+
+Create a Java program that requests a number (x) and a quantity (y) from the user. Then, display that number as many times as the specified quantity (y).
+
+Create a Java program that asks the user for an integer (x) and displays it in hexadecimal and binary. The program should repeat until the user enters a 0.
+
+Create a Java program that displays hexadecimal numbers from 0 to 255 in a table with 16 rows, each containing 16 numbers.
+
+Write a Java program that calculates and displays the number of digits in a positive integer. If the user enters a negative number, the program will show a warning and proceed with the absolute value of the number.
+
+
+Develop a Java program that prompts the user to enter two integers (x, y) and displays the range of numbers between these values, including both endpoints, in three different ways:
+Using the for control structure.
+Using the while control structure.
+Using thedo-while control structure.
+Develop a Java program that allows the user to specify a range of numbers (x, y) and, subsequently, generates and displays the multiplication tables for each number in that range, from 1 to 10.
+
+
+
+
+
+

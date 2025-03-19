@@ -1,0 +1,40 @@
+Write a Java program that functions as a basic calculator. The program will prompt the user to input two numbers and a mathematical operation (+, -, x, /). It will then perform the selected operation and display the result on the screen.
+
+If the operation symbol is different from the allowed operators (+, -, x, /), the program will indicate "Character not recognized."
+
+Develop a Java program to determine and display the absolute value of a number, whether it is positive or negative.
+
+Write a Java program that asks the user to enter a number (x). The program should determine whether this number is positive or negative and display the result.
+
+Create a Java program that prompts the user for a letter (x) and checks whether it is a vowel or any other symbol. The program should display "Vowel" on the screen if the input is a vowel (a, e, i, o, u) and "Other symbol" if it''s any other character.
+
+Create a Java program that uses the conditional operator to assign a value to a boolean variable. You should assign true if both numbers entered by the user (x, y) are even, and false if either of them is odd. Finally, display the value of the variable on the screen.
+
+Write a Java program that prompts the user to enter three numbers (x, y, z) and determines which of them is the largest number. Then, display that number on the screen.
+
+Create a Java program that prompts the user for two numbers and responds to whether they are positive or if both are positive, using the conditional operator ?.
+
+Create a Java program that prompts the user to enter two integers (a, b) and determines how many of them are positive using nested conditional operators in Java.
+
+Create a Java program that calculates a student''''s grade based on an integer input. Request a number (x) from the user and respond as follows:
+
+10 - Honor Roll
+9 - Outstanding
+7,8 - Very Good
+6 - Good
+5 - Pass
+0,4 - Fail
+Utilize the switch statement with break and default cases in Java.
+
+Create a Java program that uses a `for` loop and `char` variables to display uppercase letters of the alphabet.
+
+
+Write a program in Java that asks the user for a number x and shows the result of his multiplication table from 1 to 10.
+
+Create a Java program that prompts the user for two integer numbers and displays their multiplication using consecutive additions instead of the * operator.
+
+Develop a Java program that allows the user to specify a range of numbers (x, y) and, subsequently, generates and displays the multiplication tables for each number in that range, from 1 to 10.
+
+
+
+

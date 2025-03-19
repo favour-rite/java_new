@@ -1,0 +1,390 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ef38e8fd-6046-42b0-a1eb-152ebc03d8c8" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../../Assignment.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BankApp/BankApp.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Television.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/televisionSet.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/TelevisionTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../0987.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2.14.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../345.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AccumulatedValue.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AccumulatedValue.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Addition.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Age.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Alphabet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AnnualIcome.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Applicatiom.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Area.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AreaSwitchcase.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Arithmeticoperation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ArrayReverseIntegers.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ArrayReverseIntegers.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Averagecount.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Award.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Barchart.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../BinaryConversion.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Case.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Case.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ChosenCourse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Comparator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CompareNumbers.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Comparison.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Conversion.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ConvertPound.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Costofdriving.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CreditCard.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Currenttime.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DecreasingOrder.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DecreasingOrder00.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DecreasingOrder2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Department.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Digit.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DisplayNumber.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Displayingshapes.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Displayingshapes.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Distance.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Divisible.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Divisible00.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Divisible22.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Do-while.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DoWhileLoopTask.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Dowhile.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DuplicateIntegers.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EqualNumber.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Evennumbers.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ExistingNumber.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ExistingNumber.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FaceShape.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Factorial.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FibonacciSeries.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FindTwoLargestNumber.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FloatingNumber.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../For.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GameXandO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GasMileage.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Gasmileage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Grade.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GuessNumber.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GuessNumber2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Hcf.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Helloworld.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Hi.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../HighestNumber.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../IcecreamMenu.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ilovejava.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../IncreasingOrder.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../IndexValue.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Integers.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Intersection.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Intrest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Iterate.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Iterate.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaFunction/test_sum_even.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Javaprogram.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../KATA" beforeDir="false" afterPath="$PROJECT_DIR$/../../KATA" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LargestNumber.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LargestNumbers.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LargestSmallest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LeapYear.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MYERS.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Maximum.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MaximumInteger.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MaximumNumber.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MaximumNumber2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MaximumNumber3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MaximumandMinimum.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Maximumm.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Method.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MinimumIntegers.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MinimumLength.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Mortagage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Multiples.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Multiples.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Multiples00.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Multiples1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Multiples2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Multiplication Table.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Multiplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Multiplication1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MultiplicationTable .java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MultiplicationTable.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MultiplicationTableReverse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MultiplicationTables.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Myers-Briggs.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Name.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../NaturalNumber.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../NaturalNumbers.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../NaturalReverseNumber.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Nokia.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Nokia1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Nokia2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../NokiaExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Num1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Number.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Number1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Number4.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../NumberCounter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../NumberTrianglePattern.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Numbers1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Nummmber.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Occurrenceofnumber.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OddandEven00.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OddandEven22.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Oddandeven.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Options.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Parlindrome.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Parlindromes.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Pattern.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Patterns.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PersonalityTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PhaseGate/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../PhaseGate/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PhaseGate/PhoneBook.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PhaseGate/PhoneBook.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../PhaseGate/PhoneBook.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PhaseGate/PizzaWahala1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../PhaseGate/PizzaWahala1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PhaseGate/pizza_wahala.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../PhaseGate/pizza_wahala.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PhaseGate/student_grade.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../PhaseGate/student_grade.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PhaseGate/test_phone_book.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Physics.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Pixel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Pixel.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PositiveInteger.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PositiveNumber.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Print.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Product.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Product2.6.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../QuadraticEquation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../RandomNumber.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ReverseAlphabet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ReverseArrayString.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ReverseArrayStrings.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ReverseMultiplicationTable.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../RhombusStructure.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../RightAngleTriangle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Rupes.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Scores.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SpecificValue.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../StarNumber.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../StudentScore.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Student_score.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Studentscores.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sum.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SumNumber.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SumNumbers.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SumNumbers.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TaxCalculator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TaxCalculator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Temperature.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Temperaure1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TikTacToe.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Triangle1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TwoTriangles.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TwoTriangles.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../UserValue.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../UsersAge.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../UsersAge.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../UsersValue.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ValidatingUserInput.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Volumeofatriangle.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Vote.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WeekendName.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WeekendNameSwitchcase.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Welcome.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Welcome.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WhileLoop.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WhileLoop.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WhileloopNumbers.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../anagram.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../arithmetic_games.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../hgj.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../hj.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../import java.util.Arrays;.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../import java.util.Scanner;.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../import.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jh.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../merge_list.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parlindromealgo.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../questions.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../seat.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../classwork/Display.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../classwork/Display.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../classwork/Hello.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../classwork/Hello.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../classwork/Nokia2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../classwork/Nokia2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../classwork/Options.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../classwork/Options.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="AnnotationType" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2sdXN2X5StEQG6cHJJ5oHqxNjux" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Downloaded.Files.Path.Enabled": "false",
+    "JUnit.TelevisionTest.executor": "Run",
+    "JUnit.TelevisionTest.testThat_TVSet_ChannelCanBeChange.executor": "Run",
+    "JUnit.TelevisionTest.testThat_TVSet_ChannelCanBeIncrease.executor": "Coverage",
+    "JUnit.TelevisionTest.testThat_TVSet_ChannelIsDecrease.executor": "Run",
+    "JUnit.TelevisionTest.testThat_TVSet_IsOffByDefault.executor": "Run",
+    "JUnit.TelevisionTest.testThat_TVSet_IsOnByDefault.executor": "Run",
+    "JUnit.TelevisionTest.testThat_TVSet_VolumeIsDecrease.executor": "Run",
+    "JUnit.TelevisionTest.testThat_TVSet_VolumeIsIncrease.executor": "Run",
+    "Repository.Attach.Annotations": "true",
+    "Repository.Attach.JavaDocs": "true",
+    "Repository.Attach.Sources": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "C:/Users/DELL/Desktop/Assignment/java/assignment/Busy/televisionSet/src/Main.java",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="TelevisionTest" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.TelevisionTest.testThat_TVSet_ChannelCanBeIncrease">
+    <configuration name="TelevisionTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="televisionSet" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TelevisionTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TelevisionTest.testThat_TVSet_ChannelCanBeChange" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="televisionSet" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TelevisionTest" />
+      <option name="METHOD_NAME" value="testThat_TVSet_ChannelCanBeChange" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TelevisionTest.testThat_TVSet_ChannelCanBeIncrease" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="televisionSet" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TelevisionTest" />
+      <option name="METHOD_NAME" value="testThat_TVSet_ChannelCanBeIncrease" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TelevisionTest.testThat_TVSet_ChannelIsDecrease" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="televisionSet" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TelevisionTest" />
+      <option name="METHOD_NAME" value="testThat_TVSet_ChannelIsDecrease" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TelevisionTest.testThat_TVSet_VolumeIsDecrease" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="televisionSet" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TelevisionTest" />
+      <option name="METHOD_NAME" value="testThat_TVSet_VolumeIsDecrease" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.TelevisionTest.testThat_TVSet_ChannelCanBeIncrease" />
+        <item itemvalue="JUnit.TelevisionTest.testThat_TVSet_ChannelIsDecrease" />
+        <item itemvalue="JUnit.TelevisionTest" />
+        <item itemvalue="JUnit.TelevisionTest.testThat_TVSet_ChannelCanBeChange" />
+        <item itemvalue="JUnit.TelevisionTest.testThat_TVSet_VolumeIsDecrease" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9f38398b9061-39b83d9b5494-intellij.indexing.shared.core-IU-241.17011.79" />
+        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-IU-241.17011.79" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ef38e8fd-6046-42b0-a1eb-152ebc03d8c8" name="Changes" comment="" />
+      <created>1738786386157</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1738786386157</updated>
+      <workItem from="1738786387310" duration="19050000" />
+      <workItem from="1738871228750" duration="1687000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Main.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/televisionSet$TelevisionTest_testThat_TVSet_ChannelCanBeIncrease.ic" NAME="TelevisionTest.testThat_TVSet_ChannelCanBeIncrease Coverage Results" MODIFIED="1738873106030" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true" />
+    <SUITE FILE_PATH="coverage/televisionSet$TelevisionTest.ic" NAME="TelevisionTest Coverage Results" MODIFIED="1738845051516" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true" />
+  </component>
+</project>

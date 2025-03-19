@@ -1,0 +1,18 @@
+int number1 = 34;
+int number2 = 30;
+
+int answer = number1 - number2
+return answer
+int count = 0;
+		for (int count = 2; count <= (number/count); count++){
+		if (number % 1 == 0|| number % 1 != 0){
+			return true;
+		}		
+def factors(n):
+    result = []
+
+    for i in range(1, n + 1):
+        if n % i == 0:
+            result.append(i)
+
+    return result

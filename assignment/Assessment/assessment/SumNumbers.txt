@@ -1,0 +1,6 @@
+Start
+Declare an array of numbers
+Use for loops to loop through numbers in an array.
+sum the number and variable used in the for loop
+Display the sum of all numbers
+Stop

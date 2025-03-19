@@ -1,0 +1,4 @@
+read on parameter and agurment 
+print stream
+iteration
+loop and remainder

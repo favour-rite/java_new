@@ -1,0 +1,71 @@
+def printReceipt(){
+
+print(f " SEMICOLON STORES\n MAIN BRANCH\n LOCATION: 312, HERBERT MACAULAY WAY, SABO YABA LAGOS.\n TEL: 03293828343\n date \n Cashier: %s%nCustomer Name: %s%n", cashierName, customerName)
+
+print("""
+====================================
+ITEM\tQTY\tPRICE\tTOTAL(NGN)
+====================================
+""")
+
+for(int index = 0; index < product.size(); index++)
+
+print(f"%s\t%d\t%.2f\t%.2f%n",product.get(index), .get(index), price.get(index), total.get(index));
+
+		
+printf("""
+--------------------------------------
+Sub total: %.2f
+
+Discount: %.2f
+
+VAT @ 17.50%%: %.2f
+======================================%n""", subTotal, discountedPrice, vat
+""")
+	
+def printReceipt1(){
+
+print(f " SEMICOLON STORES\n MAIN BRANCH\n LOCATION: 312, HERBERT MACAULAY WAY, SABO YABA LAGOS.\n TEL: 03293828343\n date \n Cashier: %s%nCustomer Name: %s%n",cashierName, customerName ")
+
+print("""
+====================================
+ITEM\tQTY\tPRICE\tTOTAL(NGN)
+====================================
+""")
+
+for(int index = 0; index < product.size(); index++)
+print(f "%s\t%d\t%.2f\t%.2f%n",productName.get(index), .get(index), price.get(index), total.get(index));
+		}
+
+print("""
+--------------------------------------
+Sub total: %.2f
+
+Discount: %.2f
+
+VAT @ 17.50%%: %.2f
+======================================%n""",subTotal, discountPrice, vat);
+print(f """
+Bill Total: %.2f 
+
+Amount Paid: %.2f
+Balance: %.2f%n""",billTotal, amountPaid, balance);
+
+print("""
+=======================================
+
+THANKS YOU FOR YOUR PATRONAGE
+
+=======================================
+""")
+
+
+	
+
+
+
+
+
+
+
+

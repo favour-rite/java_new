@@ -1,0 +1,166 @@
+WRITE A JAVA PROGRAM TO ACCEPT A NUMBER AND CHECK WHETHER THE NUMBER IS EVEN OR NOT 
+PRINT 1 IF THE NUMBER IS EVEN OR 0 IS ODD 
+SAMPLE;
+INPUT A NUMBER : 20
+1
+WRITE A PROGRAM TO FID NUMBER OF DAYS IN A
+ MONTH
+write a java program to check current time;
+
+
+
+write a java program to find number of days in a month
+write a program to find number of months in a year
+number of years in a century
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1. enter number
+2. collect it
+3. save it
+4. if number is equal to 0 
+5. then it even
+6. if number is not equal to 0 
+7. then it odd
+8. display result

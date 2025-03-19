@@ -1,0 +1,37 @@
+Start
+Declare an array.
+Use for loops to display the largest element in an array.
+if pixel is not greater than equal 0 and pixel is less than equal 0
+print pixel 10
+else if pixel greater than or equal to 20 and pixel is less than or equal to 40
+print pixel 30
+else if pixel greater than or equal to 41 and pixel is less than equal to 60
+print 50
+else if pixel greater than or equal to 61 and pixel is less than or equal 80
+print 70
+else if pixel is greater than or equal to 81 and pixel is less than or equal 100
+print 90
+else if pixel is greater than or equal to 101 and pixel is less than or equal 120
+print 110
+else if pixel is greater than or equal to 121 and pixel is less than or 
+equal 140
+print 130
+else if pixel is greater than or equal to 141 and pixel is less than or 
+equal 160
+print 150
+else if pixel is greater than or equal to 161 and pixel is less than or 
+equal 180
+print 170
+else if pixel is greater than or equal to 181
+print 190
+Display the pixel converting array to string element.
+Stop
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,10 @@
+Start
+print a method
+declare a new method
+Declare an array.
+initialize target to zero
+Use two for loops to loop through the length of element in an array.
+if number is equal to the initiazed variable return true or return false
+
+Display the result.
+Stop

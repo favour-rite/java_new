@@ -1,0 +1,34 @@
+import java.util.Scanner;
+	public class{
+		public static void main(String [] args){
+
+		
+	int number = 7;
+	int number2 = 9;
+
+	if (number2 > number)
+		System.out.print("less than");
+	if (number < number2)
+		System.out.print("greater than");
+	if (number > number2 & number2 < number )
+		System.out.print("")
+	if (number > number2 && number2 < number )
+		System.out.print("")
+
+;
+	if (true ^ (x + =4) != 3)
+		System.out.print("");
+	if (number == number2 || number2 == number);
+	if (number )
+
+
+
+
+	
+	}
+
+
+
+
+
+}

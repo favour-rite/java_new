@@ -1,0 +1,5 @@
+Prompt the user for a number and store it in a variable called "a".
+Prompt the user for another number and store it in a variable called "b".
+Use the conditional operator to evaluate if "a" is positive and display "A is positive" or "A is not positive" based on that evaluation.
+Use the conditional operator to check if "b" is positive and display "B is positive" or "B is not positive" based on that evaluation.
+Finally, use the conditional operator to determine if both numbers are positive and display "Both are positive" or "Both are not positive" accordingly.
